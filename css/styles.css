@@ -3,18 +3,26 @@ body{
 }
 
 #help{
-	color:white;
-	background-color: blue;	
+	color:lime;	
 	height: 280px
 	width: 500px
 }
-
 #test{
-	color:white;
-background-color: blue;
+	color:lime;
 height: 280px
 width: 500px
 }
+
+body{
+	background-color:yellow; 
+}
+
+#Cat{
+	height:100%;
+	width:100%;
+	background-color:green;
+}
+
 
 
 
